@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello2</string>
+    <string name="button_text">Click me bitch!</string>
+    <string name="label_text">Im a label</string>
+    <string name="label_text2">Ok i lied</string>
+    <string name="label_text3">Im a textview</string>
+</resources>
